@@ -1,0 +1,10 @@
+===========
+untappd.py - v0.1
+===========
+
+Python wrapper for the Untappd API - http://untappd.com/api/docs
+
+
+Inspired from Ismail Dhorat's Foursquare Python wrapper:
+
+  https://github.com/zyelabs/python-foursquare
